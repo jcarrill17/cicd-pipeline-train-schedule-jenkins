@@ -4,6 +4,7 @@ plugins {
 
 node {
   download = true
+  version = "9.11.1"
 }
 
 //declare a build task
